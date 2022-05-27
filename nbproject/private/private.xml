@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Code%20JavaWeb/OL_Funtion1/src/java/controller/login/RegisterController.java</file>
+            <file>file:/D:/Code%20JavaWeb/OL_Funtion1/web/view/reset-password.jsp</file>
+            <file>file:/D:/Code%20JavaWeb/OL_Funtion1/src/java/model/Account.java</file>
+            <file>file:/D:/Code%20JavaWeb/OL_Funtion1/src/java/controller/login/ResetPasswordController.java</file>
+            <file>file:/D:/Code%20JavaWeb/OL_Funtion1/src/java/dao/DBContext.java</file>
+            <file>file:/D:/Code%20JavaWeb/OL_Funtion1/src/java/controller/login/LoginController.java</file>
+            <file>file:/D:/Code%20JavaWeb/OL_Funtion1/src/java/controller/login/CheckExpiredController.java</file>
+            <file>file:/D:/Code%20JavaWeb/OL_Funtion1/src/java/controller/login/VerifyController.java</file>
+            <file>file:/D:/Code%20JavaWeb/OL_Funtion1/web/view/register.jsp</file>
+            <file>file:/D:/Code%20JavaWeb/OL_Funtion1/src/java/dao/AccountDAO.java</file>
+            <file>file:/D:/Code%20JavaWeb/OL_Funtion1/src/java/controller/home/HomeController.java</file>
+        </group>
+    </open-files>
+</project-private>
